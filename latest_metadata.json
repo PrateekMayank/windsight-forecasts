@@ -1,13 +1,13 @@
 {
-  "t0": "2026-11-27T00:00:00Z",
-  "published_at_utc": "2026-11-27T00:08:02Z",
+  "t0": "2026-11-27T06:00:00Z",
+  "published_at_utc": "2026-11-27T06:07:11Z",
   "status": "PASS",
   "mode": "windsight",
   "run_type": "scheduled_issuance",
-  "forecast_sha256": "e55d51cf131b3a74516daabdd7fd9ee1a8b83a8d4440c08e11e823093cb1858c",
+  "forecast_sha256": "6e072eda1bfdbb43a9cd548ed547c9edf250c8877a3ad3fec5b61b73e8fd642a",
   "image_id": "sha256:c4aa199bf166807ec72d2d2fa55d4ea307710f34d25378a850e94dcb11174414",
   "submission_zip_sha256": "351f18ee75ab508b198f85f90e846fdc8a7478bce68d907e6d63236d4c722d38",
-  "forecast_file": "20261127T000000Z.json",
-  "wsaplus_hux_file": "wsaplus_hux_20261127T000000Z.json",
-  "wsaplus_hux_sha256": "348175ffa1943ed31e17aa977c5a83c586ac5c2e0ffbe68267994aacf18248bd"
+  "forecast_file": "20261127T060000Z.json",
+  "wsaplus_hux_file": "wsaplus_hux_20261127T060000Z.json",
+  "wsaplus_hux_sha256": "a242768a49d4d00ca886fb36eed36f11976f132e5bc1392f8a08a86ba852b6e4"
 }
