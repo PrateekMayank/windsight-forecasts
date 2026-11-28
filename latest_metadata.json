@@ -9,5 +9,9 @@
   "submission_zip_sha256": "351f18ee75ab508b198f85f90e846fdc8a7478bce68d907e6d63236d4c722d38",
   "forecast_file": "20261128T060000Z.json",
   "wsaplus_hux_file": "wsaplus_hux_20261128T060000Z.json",
-  "wsaplus_hux_sha256": "9340cc1a97f5581421dcc08e55f90ed26c11d295aa95469f2e64244063b20dab"
+  "wsaplus_hux_sha256": "9340cc1a97f5581421dcc08e55f90ed26c11d295aa95469f2e64244063b20dab",
+  "swpc_file": "swpc/20261128T060000Z.json",
+  "swpc_sha256": "e8f20173e88c6464ead80ca263152ffdfdd76eef01bbf3e11e148ee2c589d76e",
+  "swpc_captured_at_utc": "2026-11-28T08:21:04Z",
+  "swpc_capture_type": "nearest_available_after_issuance"
 }
