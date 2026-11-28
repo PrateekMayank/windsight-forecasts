@@ -1,17 +1,17 @@
 {
-  "t0": "2026-11-28T06:00:00Z",
-  "published_at_utc": "2026-11-28T06:07:23Z",
+  "t0": "2026-11-28T12:00:00Z",
+  "published_at_utc": "2026-11-28T12:07:15Z",
   "status": "PASS",
   "mode": "windsight",
   "run_type": "scheduled_issuance",
-  "forecast_sha256": "c76f2314c07b258cb5cee4097dfb03199ae1a62ce3f009946bb65ca3a91cf522",
+  "forecast_sha256": "bacb2ae491a1cb15c6b8de2901efa4e4e7c41ce4c60ada4c039561be3cc180bb",
   "image_id": "sha256:c4aa199bf166807ec72d2d2fa55d4ea307710f34d25378a850e94dcb11174414",
   "submission_zip_sha256": "351f18ee75ab508b198f85f90e846fdc8a7478bce68d907e6d63236d4c722d38",
-  "forecast_file": "20261128T060000Z.json",
-  "wsaplus_hux_file": "wsaplus_hux_20261128T060000Z.json",
-  "wsaplus_hux_sha256": "9340cc1a97f5581421dcc08e55f90ed26c11d295aa95469f2e64244063b20dab",
-  "swpc_file": "swpc/20261128T060000Z.json",
-  "swpc_sha256": "e8f20173e88c6464ead80ca263152ffdfdd76eef01bbf3e11e148ee2c589d76e",
-  "swpc_captured_at_utc": "2026-11-28T08:21:04Z",
-  "swpc_capture_type": "nearest_available_after_issuance"
+  "forecast_file": "20261128T120000Z.json",
+  "wsaplus_hux_file": "wsaplus_hux_20261128T120000Z.json",
+  "wsaplus_hux_sha256": "d9b75aab6cfde6ae964ad94a6e29a1883c0f2962fd4a458706eb507189de88e6",
+  "swpc_file": "swpc/20261128T120000Z.json",
+  "swpc_sha256": "1576bad5daf32df5ae3ca7b53971efc4786a85c9f690171b01cd26ea8415828b",
+  "swpc_captured_at_utc": "2026-11-28T12:05:07Z",
+  "swpc_capture_type": "near_issuance"
 }
